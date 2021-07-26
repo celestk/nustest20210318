@@ -8,4 +8,3 @@ I just want to find out how Github works!
 * and this another list item
 * ok this is the last one
 
-![](sentosa.jpg)
